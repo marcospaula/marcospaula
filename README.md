@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Marcos Paula!
+# 👋 Hi, I’m Marcos de Paula!
 
 ## 🚀 About Me
 I am a Reliability Engineer working in the research and development (R&D) department with a background in Industrial Engineering. My expertise spans Reliability Engineering, Innovation, Entrepreneurship in Engineering, Big Data Analytics, and Aviation Safety. I’m passionate about leveraging advanced analytics and innovative methodologies to drive engineering excellence and operational safety.
