@@ -26,6 +26,7 @@ I am a Reliability Engineer working in the research and development (R&D) depart
 ## 🌐 Connect with Me
 
 - **GitHub:** [marcospaula](https://github.com/marcospaula)
+- **Linkedin:** [marcospaula](https://www.linkedin.com/in/marcospaula/)
 
 ---
 
